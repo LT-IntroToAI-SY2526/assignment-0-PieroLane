@@ -14,7 +14,7 @@ Git is the AI tool used on the website Github.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-Committing and pushing is the way to change a document and show your changes.
+Committing and pushing is the way to change a document and show your changes. Commiting is he change you made and push is ehat saves it so people cna see your work.
 
 **3. What is a repository and what does it contain?**
 
