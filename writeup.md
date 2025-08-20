@@ -24,7 +24,7 @@ A repository is a folder where your work can be stored in and repositories are s
 
 ## Profile Repository Link
 
-**Link to your GitHub profile repository:** 
+https://github.com/PieroLane/PieroLane.git
 
 [Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
 
