@@ -18,7 +18,7 @@ Committing and pushing is the way to change a document and show your changes. Co
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repository is a folder where your work can be stored in and repositories are stored in the cloud.
 
 ---
 
