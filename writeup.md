@@ -34,7 +34,7 @@ A repository is a folder where your work can be stored in and repositories are s
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I am excitred to learn about how to use AI and how it came to be. I also want to learn how to make an Ai even if it is simple. I also want to learn and am excited to learn to program and code even if it wont be quick because I think it will be useful in the future.
 
 ---
 
